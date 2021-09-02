@@ -1,6 +1,6 @@
 ## Welcome to **Yangyang Xu**'s HomePage!
 
-**Yangyang Xu**(徐洋洋) is pursing his doctor degree under the supervision of [Dr.Shengfeng He](https://shengfenghe.com/) and [Dr.Xuemiao Xu](https://scut-mm.github.io/people.html) in South China University of Technology(SCUT). He is excepted graduation in August, 2021 and his research insterests include computer vision, image editing, generative models and transfer learning.
+**Yangyang Xu**(徐洋洋) receieves his doctor degree under the supervision of [Dr.Shengfeng He](https://shengfenghe.com/) and [Dr.Xuemiao Xu](https://scut-mm.github.io/people.html) in South China University of Technology(SCUT). His research insterests include computer vision, image editing, generative models and transfer learning.
 
 
 [**GoogleScholar**](https://scholar.google.com/citations?user=SmlxBFAAAAAJ&hl=zh-CN)
@@ -14,6 +14,7 @@ Mobile: (86)199-2752-3189 \\
 Address: Room 542, B3 Building, South China University of Technology, Guangzhou, Higher Education Mega Center, Guangzhou, China, 510006
 
 ### News!
+08/13/2021: Passed the oral defense and became a **Dr**.\\
 07/23/2021: One Paper is accepted by ICCV.\\
 06/09/2021: One Paper is accepted by TIP.
 
@@ -85,6 +86,7 @@ Submitted to _IEEE Transactions on Circuits and Systems for Video Technology_ (*
 
 
 ### Activates
-**Reviewer**: IEEE **TNNLS**, IEEE **SPL**, Neural Computing, **P&G** 2020, **CVPR** 2020, **ECCV** 2020, **AAAI** 2021, **CVPR** 2021, **ICCV** 2021.\\
+**Reviewer**: IEEE **TIP**, IEEE **TNNLS**, IEEE **SPL**, Pattern Recognition, Neural Computing.\\
+**P&G** 2020, **CVPR** 2020, **ECCV** 2020, **AAAI** 2021, **CVPR** 2021, **ICCV** 2021.\\
 **Seminar report**: “Graph Convolutional Neural Networks for Zero-shot Action Recognition”, City University of Hong Kong, Hong Kong. 2018.12
 
