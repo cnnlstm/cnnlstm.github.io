@@ -20,7 +20,8 @@ Address: Room 542, B3 Building, South China University of Technology, Guangzhou,
 
 ### Publication
 
-∗Corresponding author
+∗Corresponding author\\
++Equal Contribution\\
 1. From Continuity to Editability: Inverting GANs with Consecutive Images\\
 **Yangyang Xu**, Yong Du, Wenpeng Xiao, Xuemiao Xu∗, and Shengfeng He∗ \\
 _IEEE International Conference on Computer Vision_ (**ICCV 2021**)
@@ -70,8 +71,8 @@ Submitted to _IEEE Transactions on Pattern Analysis and Machine Intelligence_(**
 
 2. Pro-PULSE: Learning Progressive Encoders of Latent Semantics in GANs for
 Photo Upsampling\\
-Shengfeng He, Yang Zhou, Yong Du, Qiang Wen and **Yangyang
-Xu**∗\\
+Yang Zhou+, **Yangyang
+Xu+**, Yong Du, Qiang Wen and Shengfeng He∗\\
 Submitted to _IEEE Transactions on Image Processing_ (**TIP**) (Major Revision)
 
 3. Deep Texture-Aware Features for Camouflaged Object Detection\\
