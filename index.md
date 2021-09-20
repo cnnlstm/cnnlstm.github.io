@@ -76,14 +76,20 @@ Yang Zhou+, **Yangyang
 Xu**+, Yong Du, Qiang Wen and Shengfeng He∗\\
 Submitted to _IEEE Transactions on Image Processing_ (**TIP**) (Major Revision)
 
-3. Deep Texture-Aware Features for Camouflaged Object Detection\\
+3. Parsing-Conditioned Anime Translation: A New Dataset and Method \\
+Zhansheng Li+, **Yangyang Xu**+, Nanxuan Zhao, Yang Zhou, Yongtuo Liu, Dahua Lin and Shengfeng He \\ 
+Submitted to _ACM Transactions on Graphics_ (**TOG**)
+
+4. Deep Texture-Aware Features for Camouflaged Object Detection\\
 Jingjing Ren, Xiaowei Hu, Lei Zhu, Xuemiao Xu∗, **Yangyang Xu**, Weiming
 Wang, Zijun Deng and Pheng-Ann Heng\\
 Submitted to _IEEE Transactions on MultiMedia_ (**TMM**)
 
-4. Class-aware Global Feature Alignment for Adaptive Object Detection\\
+5. Class-aware Global Feature Alignment for Adaptive Object Detection\\
 Shan Xu, Huaidong Zhang, Xuemiao Xu, Xiaowei Hu, **Yangyang Xu**, Liangui Dai, Pheng-Ann Heng, Kup-Sze Choi\\
 Submitted to _IEEE Transactions on Circuits and Systems for Video Technology_ (**TCSVT**)
+
+
 
 
 
