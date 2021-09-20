@@ -77,7 +77,7 @@ Xu**+, Yong Du, Qiang Wen and Shengfeng He∗\\
 Submitted to _IEEE Transactions on Image Processing_ (**TIP**) (Major Revision)
 
 3. Parsing-Conditioned Anime Translation: A New Dataset and Method \\
-Zhansheng Li+, **Yangyang Xu**+, Nanxuan Zhao, Yang Zhou, Yongtuo Liu, Dahua Lin and Shengfeng He \\ 
+Zhansheng Li+, **Yangyang Xu**+, Nanxuan Zhao, Yang Zhou, Yongtuo Liu, Dahua Lin and Shengfeng He∗\\
 Submitted to _ACM Transactions on Graphics_ (**TOG**)
 
 4. Deep Texture-Aware Features for Camouflaged Object Detection\\
