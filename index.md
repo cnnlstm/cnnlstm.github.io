@@ -1,6 +1,6 @@
 ## Welcome to **Yangyang Xu**'s HomePage!
 
-**Yangyang Xu**(徐洋洋) receieves his doctor degree under the supervision of [Pro.Shengfeng He](https://shengfenghe.com/) and [Pro.Xuemiao Xu](https://scut-mm.github.io/people.html) in South China University of Technology(SCUT). Now he is a post-doc at the university of Hong Kong(HKU), under the supervision of [Pro.Ping Luo](http://luoping.me/). His research insterests include computer vision, image editing, generative models and transfer learning.
+**Yangyang Xu**(徐洋洋) receieves his doctor degree under the supervision of [Pro. Shengfeng He](https://shengfenghe.com/) and [Pro. Xuemiao Xu](https://scut-mm.github.io/people.html) in South China University of Technology(SCUT). Now he is a post-doc at the university of Hong Kong(HKU), under the supervision of [Pro. Ping Luo](http://luoping.me/). His research insterests include computer vision, image editing, generative models and transfer learning.
 
 
 [**GoogleScholar**](https://scholar.google.com/citations?user=SmlxBFAAAAAJ&hl=zh-CN)
