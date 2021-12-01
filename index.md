@@ -95,7 +95,7 @@ Shan Xu, Huaidong Zhang, Xuemiao Xu, Xiaowei Hu, **Yangyang Xu**, Liangui Dai, P
 Submitted to _IEEE Transactions on Circuits and Systems for Video Technology_ (**TCSVT**)
 
 6. Background Matting via Recursive Excitation\\
-Junjie Deng+, **Yangyang Xu**+, Zeyang Zhou and Shengfeng He*\\ 
+Junjie Deng+, **Yangyang Xu**+, Zeyang Zhou and Shengfeng He*\\
 Submitted to _IEEE Signal Processing Letters_ (**SPL**)
 
 
