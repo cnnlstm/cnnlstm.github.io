@@ -10,7 +10,7 @@
 ### Contact Information
 Department of Computer Science, The University of Hong Kong \\
 E-mail: cnnlstm@gmail.com \\
-Mobile: (86)199-2752-3189 \\
+Mobile:  (+852) 6277-9797 \\
 Address: Rm 301 Chow Yei Ching Building, The University of Hong Kong, Pokfulam, Hong Kong, 999077
 
 ### News!
