@@ -14,7 +14,7 @@ Mobile: (86)199-2752-3189 \\
 Address: Rm 301 Chow Yei Ching Building, The University of Hong Kong, Pokfulam, Hong Kong, 999077
 
 ### News!
-12/03/2021: Join the department of computer science, the university of Hong Kong and start his postdoc. phase. \\
+12/02/2021: Join the department of computer science, HKU, and start his postdoc. phase. \\
 08/13/2021: Passed the oral defense and became a **Dr**.\\
 07/23/2021: One Paper is accepted by ICCV.\\
 06/09/2021: One Paper is accepted by TIP.
