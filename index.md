@@ -96,7 +96,8 @@ Submitted to _IEEE Transactions on Circuits and Systems for Video Technology_ (*
 
 6. Background Matting via Recursive Excitation\\
 Junjie Deng+, **Yangyang Xu**+, Zeyang Zhou and Shengfeng He*\\
-Submitted to _IEEE Signal Processing Letters_ (**SPL**)
+Submitted to _IEEE International Conference on Multimedia and Expo_ (**ICME 2022**)
+
 
 
 
