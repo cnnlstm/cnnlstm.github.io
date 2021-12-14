@@ -11,7 +11,7 @@
 Department of Computer Science, The University of Hong Kong \\
 E-mail: cnnlstm@gmail.com \\
 Mobile:  (+852) 6277-9797 \\
-Address: Rm P501, Graduate House, The University of Hong Kong, Pokfulam, Hong Kong, 999077
+Address: Rm P501, Graduate House, The University of Hong Kong, Pokfulam, Hong Kong
 
 ### News!
 12/02/2021: Join the department of computer science, HKU, and start his postdoc. phase. \\
