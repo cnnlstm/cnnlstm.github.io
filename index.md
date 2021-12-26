@@ -14,6 +14,7 @@ Mobile:  (+852) 6277-9797 \\
 Address: Rm P501, Graduate House, The University of Hong Kong, Pokfulam, Hong Kong
 
 ### News!
+12/22/2021: One Paper is accepted by TIP. \\
 12/02/2021: Join the department of computer science, HKU, and start his postdoc. phase. \\
 08/13/2021: Passed the oral defense and became a **Dr**.\\
 07/23/2021: One Paper is accepted by ICCV.\\
@@ -41,28 +42,34 @@ _IEEE Transactions on Neural Networks and Learning Systems_ (**TNNLS**)
 **Yangyang Xu**, Xuemiao Xu∗, Guoqiang Han, and Shengfeng He∗\\
 _IEEE Transactions on Cognitive and Developmental Systems_ (**TCDS**)
 
-5. Invertible Grayscale with Sparsity Enforcing Priors\\
+5. Pro-PULSE: Learning Progressive Encoders of Latent Semantics in GANs for
+Photo Upsampling\\
+Yang Zhou+, **Yangyang
+Xu**+, Yong Du, Qiang Wen and Shengfeng He∗\\
+_IEEE Transactions on Image Processing_ (**TIP**)
+
+6. Invertible Grayscale with Sparsity Enforcing Priors\\
 Yong Du, **Yangyang Xu**, Taizhong Ye, Qiang Wen, Chufeng Xiao, Junyu
 Dong, Guoqiang Han, Shengfeng He∗\\
 _ACM Transactions on Multimedia Computing Communications and Applications_ (**TOMM**)
 
-6. Unsupervised Domain Adaptation via Importance Sampling\\
+7. Unsupervised Domain Adaptation via Importance Sampling\\
 Xuemiao Xu, Hai He, Huaidong Zhang, **Yangyang Xu**, and Shengfeng He∗\\
 _IEEE Transactions on Circuits and Systems for Video Technology_ (**TCSVT**)
 
-7. Deep Texture-Aware Features for Camouflaged Object Detection\\
+8. Deep Texture-Aware Features for Camouflaged Object Detection\\
 Jingjing Ren, Xiaowei Hu, Lei Zhu, Xuemiao Xu∗, **Yangyang Xu**, Weiming Wang, Zijun Deng and Pheng-Ann Heng\\
 _IEEE Transactions on MultiMedia_ (**TMM**)
 
-8. Ensemble One-Dimensional Convolution Neural Networks for Skeleton-Based Action Recognition\\
+9. Ensemble One-Dimensional Convolution Neural Networks for Skeleton-Based Action Recognition\\
 **Yangyang Xu**, Jun Cheng, Lei Wang∗, Feng Liu and Dapeng Tao\\
 _IEEE Signal Processing Letters_ (**SPL**)
 
-9. Human Action Recognition by Learning Spatio-Temporal Features With Deep Neural Networks \\
+10. Human Action Recognition by Learning Spatio-Temporal Features With Deep Neural Networks \\
 Lei Wang,**Yangyang Xu**, Jun Cheng*, Jianqin Yin and Jiaji Wu  \\
 _IEEE Access_
 
-10. DTA: Double LSTM with temporal-wise attention network for action recognition \\
+11. DTA: Double LSTM with temporal-wise attention network for action recognition \\
 **Yangyang Xu**, Lei Wang, Jun Cheng and Jiaji Wu \\
 _IEEE International Conference on Computer and Communications_
 
@@ -75,26 +82,19 @@ _IEEE International Conference on Computer and Communications_
 **Yangyang Xu**,  Bailin Deng, Junle Wang, Yanqing Jing, Jia Pan and Shengfeng He*  \\
 Submitted to _IEEE/CVF Conference on Computer Vision and Pattern Recognition_ (**CVPR 2022**)
 
-
 2. Self-supervised Matting-specific Portrait Enhancement and Generation\\
 **Yangyang Xu**, Zeyang Zhou, Shengfeng He∗\\
 Submitted to _IEEE Transactions on Image Processing_ (**TIP**) 
 
-3. Pro-PULSE: Learning Progressive Encoders of Latent Semantics in GANs for
-Photo Upsampling\\
-Yang Zhou+, **Yangyang
-Xu**+, Yong Du, Qiang Wen and Shengfeng He∗\\
-Submitted to _IEEE Transactions on Image Processing_ (**TIP**) (Major Revision)
-
-4. Parsing-Conditioned Anime Translation: A New Dataset and Method \\
+3. Parsing-Conditioned Anime Translation: A New Dataset and Method \\
 Zhansheng Li+, **Yangyang Xu**+, Nanxuan Zhao, Yang Zhou, Yongtuo Liu, Dahua Lin and Shengfeng He∗\\
 Submitted to _ACM Transactions on Graphics_ (**TOG**)
 
-5. Class-aware Global Feature Alignment for Adaptive Object Detection\\
+4. Class-aware Global Feature Alignment for Adaptive Object Detection\\
 Shan Xu, Huaidong Zhang, Xuemiao Xu, Xiaowei Hu, **Yangyang Xu**, Liangui Dai, Pheng-Ann Heng, Kup-Sze Choi\\
 Submitted to _IEEE Transactions on Circuits and Systems for Video Technology_ (**TCSVT**)
 
-6. Background Matting via Recursive Excitation\\
+5. Background Matting via Recursive Excitation\\
 Junjie Deng+, **Yangyang Xu**+, Zeyang Zhou and Shengfeng He*\\
 Submitted to _IEEE International Conference on Multimedia and Expo_ (**ICME 2022**)
 
