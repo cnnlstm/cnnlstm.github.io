@@ -105,8 +105,11 @@ Submitted to _IEEE Transactions on Circuits and Systems for Video Technology_ (*
 
 
 ### Activates
-**Reviewer**:  **ECCV** 2022,  **ICML** 2022, **CVPR** 2022, **ICCV** 2021, **CVPR** 2021,  **AAAI** 2021, **ECCV** 2020, **CVPR** 2020, **P&G** 2020. \\
-IEEE **TIP**, IEEE **TNNLS**, IEEE **SPL**, Pattern Recognition, Neural Computing.\\
+
+**Reviewer**  
+**ECCV** 2022,  **ICML** 2022, **CVPR** 2022, **ICCV** 2021, **CVPR** 2021,  **AAAI** 2021, **ECCV** 2020, **CVPR** 2020, **P&G** 2020. \\
+IEEE **TIP**, IEEE **TNNLS**, IEEE **SPL**, Pattern Recognition, Neural Computing.
               
-**Seminar report**: “Graph Convolutional Neural Networks for Zero-shot Action Recognition”, City University of Hong Kong, Hong Kong. 2018.12
+**Seminar report**
+“Graph Convolutional Neural Networks for Zero-shot Action Recognition”, City University of Hong Kong, Hong Kong. 2018.12
 
