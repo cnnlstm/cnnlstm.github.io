@@ -9,7 +9,7 @@
 
 ### Contact Information
 Department of Computer Science, The University of Hong Kong \\
-E-mail: cnnlstm@gmail.com \\
+E-mail: cnnlstm[at]gmail.com \\
 Mobile:  (+852) 6277-9797 \\
 Address: Rm P501, Graduate House, The University of Hong Kong, Pokfulam, Hong Kong
 
